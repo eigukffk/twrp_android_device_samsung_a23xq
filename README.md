@@ -1,10 +1,16 @@
-# Android device tree for samsung SM-A236B (a23xq)
+# TWRP device tree for samsung SM-A236B (a23xq)
+
+Add to
+`.repo/local_manifests/a23xq.xml`
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="mrx7014/twrp_android_device_samsung_a23xq" path="device/samsung/a23xq" remote="github" revision="twrp_a23xq" />
+</manifest>
 
 ```
-#
-# Copyright (C) 2023 The Android Open Source Project
-# Copyright (C) 2023 SebaUbuntu's TWRP device tree generator
-#
-# SPDX-License-Identifier: Apache-2.0
-#
-```
+Then run `repo sync` to check it out.
+
+Kernel sources are available at: 
+*Not Available Yet*

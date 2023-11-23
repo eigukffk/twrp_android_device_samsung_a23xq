@@ -18,7 +18,7 @@ $(call inherit-product, device/samsung/a23xq/device.mk)
 PRODUCT_DEVICE := a23xq
 PRODUCT_NAME := twrp_a23xq
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := SM-A236B
+PRODUCT_MODEL := SM-A236E
 PRODUCT_MANUFACTURER := samsung
 
 PRODUCT_GMS_CLIENTID_BASE := android-samsung

@@ -1,4 +1,4 @@
-# TWRP device tree for samsung SM-A236B (a23xq)
+# TWRP device tree for samsung SM-A236E (a23xq) [For testing]
 
 Add to
 `.repo/local_manifests/a23xq.xml`

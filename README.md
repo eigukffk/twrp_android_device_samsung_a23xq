@@ -14,3 +14,6 @@ Then run `repo sync` to check it out.
 
 Kernel sources are available at: 
 *Not Available Yet*
+
+
+Release: https://github.com/eigukffk/Action-TWRP-Builder/releases/tag/6974728754

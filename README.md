@@ -15,4 +15,4 @@ Then run `repo sync` to check it out.
 Kernel sources are available at: https://opensource.samsung.com/uploadList, Using version A236BXXU2BVK7
 
 
-Release: https://github.com/eigukffk/Action-TWRP-Builder/releases/tag/6974728754 (Touch isn't working on TWRP for some reason, well maybe it's the kernel touchscreen detection problem, probably, like idk)
+Release: https://github.com/eigukffk/Action-TWRP-Builder/tags (Touch isn't working on TWRP for some reason, well maybe it's the kernel touchscreen detection problem, probably, like idk)

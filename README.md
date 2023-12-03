@@ -12,7 +12,6 @@ Add to
 ```
 Then run `repo sync` to check it out.
 
-Kernel original sources are at: https://opensource.samsung.com/uploadList, Using version A236BXXU2BVK7, 
-Modified kernel sources: Not yet exist
+Kernel sources at: https://github.com/eigukffk/android_kernel_samsung_galaxy_a23_5g *The Kernel is not yet changed, It's still the original*
 
 Release: https://github.com/eigukffk/Action-TWRP-Builder/tags (Touch isn't working on TWRP for some reason, well maybe it's the kernel touchscreen detection problem, probably, like idk)
